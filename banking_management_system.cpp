@@ -298,7 +298,7 @@ int main() {
     int choice;
    
     do {
-        cout<<" Welcome to Tasin Coder Bank Of India" << endl;
+        cout<<" Welcome to Banking Management System" << endl;
         cout<<"--------------------------------------"<<endl;
         cout << "1. Create Account" << endl;
         cout << "2. Login" << endl;
@@ -324,3 +324,4 @@ int main() {
     } while (choice != 3);
     return 0;
 }
+
